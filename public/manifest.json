@@ -1,0 +1,36 @@
+{
+    "name": "Movie Hub",
+    "short_name": "MovieHub",
+    "short_url": "/index.html",
+    "display":"standalone",
+    "background_color":"blue",
+    "theme_color":"orange",
+    "orientation": "portrait-primary",
+    "icons":[
+        {
+            "src":"/img/icons/iicon-72x72.png",
+            "type": "image/png",
+            "sizes":"72x72"
+        },
+        {
+            "src":"/img/icons/iicon-96x96.png",
+            "type": "image/png",
+            "sizes":"96x96"
+        },
+        {
+            "src":"/img/icons/iicon-72x72.png",
+            "type": "image/png",
+            "sizes":"128x128"
+        },
+        {
+            "src":"/img/icons/iicon-192x192.png",
+            "type": "image/png",
+            "sizes":"192x192"
+        },
+        {
+            "src":"/img/icons/iicon-512x512.png",
+            "type": "image/png",
+            "sizes":"512x512"
+        }
+    ]
+}
